@@ -66,8 +66,8 @@ Normalizes Dolly and FinQA datasets into a unified template. To accommodate loca
 Ensure you have Python 3.11+ installed, then run:
 
 ```bash
-git clone https://github.com/Celsius273-web/Fine_Tuning_GPT2_with_Dolly_and_FinQA
-cd Fine_Tuning_GPT2_with_Dolly_and_FinQA
+git clone (https://github.com/Celsius273-web/GPT2-LoRA-Instruction-Finetuning.git)
+cd GPT2-LoRA-Instruction-Finetuning
 pip install -r requirements.txt
 
 ```
